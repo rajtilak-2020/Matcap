@@ -56,8 +56,8 @@ This project features a clean and dynamic webpage design using modern web develo
 
 ## 📬 Contact
 Feel free to reach out for collaborations or inquiries!  
-📧 Email: [Here](mailto:rajtilak1062020@gmail.com)  
-🌐 Portfolio: [Here](https://krajtilak.vercel.app)
+📧 Email: [Click Here](mailto:rajtilak1062020@gmail.com)  
+🌐 Portfolio: [Click Here](https://krajtilak.vercel.app)
 
 ---
 
